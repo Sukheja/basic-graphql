@@ -13,4 +13,4 @@ npm install
 
 #Start the application using the following command
 
-node server.js
+node index.js
